@@ -39,7 +39,7 @@ auth-api-jwt/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/auth-api-jwt.git
+git clone https://github.com/mirzamuhammaddaniyal-eng/auth-api-jwt.git
 cd auth-api-jwt
 ```
 
